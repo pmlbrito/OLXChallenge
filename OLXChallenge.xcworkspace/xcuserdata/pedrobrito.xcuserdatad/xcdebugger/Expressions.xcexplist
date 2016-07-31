@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "OLXAPIService.fetchAds((availAds : APIResponseObject?, error : NSError?) -&gt; ()) -&gt; ():OLXAPIService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "OLXAPIService.(fetchAds((availAds : APIResponseObject?, error : NSError?) -&gt; ()) -&gt; ()).(closure #1):OLXAPIService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AdDetailUIViewController.setViewValues() -&gt; ():AdDetailUIViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AdsListProcess.(getAds(String, completionHandler : (availAds : [AdViewModel]) -&gt; ()) -&gt; ()).(closure #1).(closure #1).(closure #1):AdsListProcess.swift">
+      </ContextState>
+      <ContextState
+         contextName = "APIAd.toDBObject(String) -&gt; DBAd:APIAd.swift">
+      </ContextState>
+      <ContextState
+         contextName = "APIAd.mapping(Map) -&gt; ():APIAd.swift">
+      </ContextState>
+      <ContextState
+         contextName = "APIAdPhotoData.mapping(Map) -&gt; ():APIAdPhotoData.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AdsListTableViewController.prepareForSegue(UIStoryboardSegue, sender : AnyObject!) -&gt; ():AdsListTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static OLXDatabseService.fetchAds(Realm, category_id : String) -&gt; [DBAd]:OLXDatabseService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AdDetailUIViewController.setDetailViewData(AdViewModel) -&gt; ():AdDetailUIViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "APIAdPhoto.mapping(Map) -&gt; ():APIAdPhoto.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AdDetailUIViewController.setDetailViewData(AdViewModel?) -&gt; ():AdDetailUIViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DBAd.getViewModel() -&gt; AdViewModel:DBAd.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.photos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

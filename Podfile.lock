@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (3.4.1)
+  - AlamofireImage (2.4.1):
+    - Alamofire (~> 3.3)
+  - AlamofireObjectMapper (3.0.0):
+    - Alamofire (~> 3.2)
+    - ObjectMapper (~> 1.0)
+  - AsyncSwift (1.7.2)
+  - ImageSlideshow (0.5.0):
+    - ImageSlideshow/Core (= 0.5.0)
+  - ImageSlideshow/Alamofire (0.5.0):
+    - AlamofireImage (~> 2.0)
+    - ImageSlideshow/Core
+  - ImageSlideshow/Core (0.5.0)
+  - Kingfisher (2.4.1)
+  - ObjectMapper (1.3.0)
+  - QuickShotUtils (0.1.0)
+  - Realm (1.0.1):
+    - Realm/Headers (= 1.0.1)
+  - Realm/Headers (1.0.1)
+  - RealmSwift (1.0.1):
+    - Realm (= 1.0.1)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 3.0)
+  - AsyncSwift
+  - ImageSlideshow (~> 0.5)
+  - ImageSlideshow/Alamofire
+  - Kingfisher
+  - QuickShotUtils (from `https://github.com/pmlbrito/QuickShotUtils.git`)
+  - RealmSwift
+
+EXTERNAL SOURCES:
+  QuickShotUtils:
+    :git: https://github.com/pmlbrito/QuickShotUtils.git
+
+CHECKOUT OPTIONS:
+  QuickShotUtils:
+    :commit: b7012417921204ca025c6248494d3d83c1e5ad48
+    :git: https://github.com/pmlbrito/QuickShotUtils.git
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AlamofireImage: 3ccf3347d9ea24580dc11fb892770a0be6a29826
+  AlamofireObjectMapper: 2d16585d06177be0116d76de73497e77437798af
+  AsyncSwift: 46a78bceb11f0e5bb52747f740d9692ec78d2d7c
+  ImageSlideshow: b2662127d093a42d9595a6b40af2817d064df251
+  Kingfisher: 41aed5b6c1ed8fa98cf6d75283ce89cf7890f517
+  ObjectMapper: 4eb08a726e9791a93b2632049951b56a7c17e471
+  QuickShotUtils: 400a91f9b43bd9a3b330cbd2d8d91a333731d939
+  Realm: 2e15e39d35b08abb529e212ed5d8af107b5236c8
+  RealmSwift: d73ea2af08c3676dbdd5e4b669651a0f492162a4
+
+PODFILE CHECKSUM: 31de0068a0a6719f3f05e62f1ec995202fbb3c6c
+
+COCOAPODS: 1.0.1
